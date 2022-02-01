@@ -5,6 +5,6 @@ public class ããããã {
 	
 	
 	public static void main(String[] args) {
-		System.out.println("Hihi");
+		System.out.println("Hi");
 	}
 }
